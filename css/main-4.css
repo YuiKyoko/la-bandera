@@ -1,0 +1,13 @@
+div{
+	width: auto;
+	height: auto;
+	display: inline;
+	padding:10px ;
+}
+	
+.uno{
+	background-color: yellow;
+}
+.dos{
+	background-color: red;
+}
